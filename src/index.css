@@ -1,13 +1,96 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Montserrat", sans-serif;
+ 
+font-weight: 400;
+line-height: 1.666;
+
+background-color: #FED049;
+background-image: url("data:image/svg+xml,%3Csvg xlink='http://www.w3.org/1999/xlink' viewBox='0 0 5000 5000' xmlns='http://www.w3.org/2000/svg' style='transform: scale(1)%3B'%3E%3Cdefs%3E%3Cfilter id='goo'%3E%3CfeGaussianBlur in='SourceGraphic' stdDeviation='4.625' result='blur'%3E%3C/feGaussianBlur%3E%3CfeColorMatrix in='blur' type='matrix' values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 19 -9' result='good'%3E%3C/feColorMatrix%3E%3CfeComposite in='SourceGraphic' in2='goo' operator='atop'%3E%3C/feComposite%3E%3C/filter%3E%3Cpath d='M283 252C264 262 255 268 236 280C239 263 236 260 220 264C215 236 236 215 264 220C263 238 266 244 283 252z' id='P0'%3E%3C/path%3E%3Cpath d='M259 246L242 255L240 248L247 240L259 246z' id='P1'%3E%3C/path%3E%3Cpath d='M268 231C262 244 264 249 275 256C256 264 242 263 224 252L239 226C249 236 254 237 268 231z' id='P2'%3E%3C/path%3E%3Cpath d='M233 244L261 236L256 267L239 265L233 244z' id='P3'%3E%3C/path%3E%3Cpath d='M223 241Q221 219 240 224L274 235L230 269Q209 258 223 241z' id='P4'%3E%3C/path%3E%3Cpath d='M247 263L239 258L254 238L261 244L247 263z' id='P5'%3E%3C/path%3E%3Cpath d='M255 214C268 240 269 259 255 286L248 286C221 278 210 250 224 225L255 214z' id='P6'%3E%3C/path%3E%3Cpath d='M269 245L244 269L232 260L238 234L269 245z' id='P7'%3E%3C/path%3E%3C/defs%3E%3Cg id='group' fill='%23555555' filter='url(%23goo)'%3E%3Cuse x='241' y='-31' href='%23P4'%3E%3C/use%3E%3Cuse x='296' y='529' href='%23P3'%3E%3C/use%3E%3Cuse x='46' y='1146' href='%23P6'%3E%3C/use%3E%3Cuse x='34' y='1424' href='%23P5'%3E%3C/use%3E%3Cuse x='92' y='2345' href='%23P7'%3E%3C/use%3E%3Cuse x='13' y='2624' href='%23P5'%3E%3C/use%3E%3Cuse x='220' y='3567' href='%23P5'%3E%3C/use%3E%3Cuse x='177' y='3938' href='%23P3'%3E%3C/use%3E%3Cuse x='-164' y='4749' href='%23P2'%3E%3C/use%3E%3Cuse x='228' y='5275' href='%23P2'%3E%3C/use%3E%3Cuse x='866' y='239' href='%23P7'%3E%3C/use%3E%3Cuse x='497' y='716' href='%23P6'%3E%3C/use%3E%3Cuse x='451' y='1270' href='%23P5'%3E%3C/use%3E%3Cuse x='712' y='1839' href='%23P6'%3E%3C/use%3E%3Cuse x='882' y='2030' href='%23P2'%3E%3C/use%3E%3Cuse x='958' y='2880' href='%23P7'%3E%3C/use%3E%3Cuse x='814' y='3548' href='%23P0'%3E%3C/use%3E%3Cuse x='501' y='3885' href='%23P0'%3E%3C/use%3E%3Cuse x='874' y='4460' href='%23P1'%3E%3C/use%3E%3Cuse x='390' y='5030' href='%23P7'%3E%3C/use%3E%3Cuse x='1193' y='190' href='%23P0'%3E%3C/use%3E%3Cuse x='1138' y='683' href='%23P1'%3E%3C/use%3E%3Cuse x='1049' y='1140' href='%23P4'%3E%3C/use%3E%3Cuse x='1380' y='1919' href='%23P6'%3E%3C/use%3E%3Cuse x='1324' y='2226' href='%23P7'%3E%3C/use%3E%3Cuse x='1215' y='2699' href='%23P1'%3E%3C/use%3E%3Cuse x='1311' y='3133' href='%23P4'%3E%3C/use%3E%3Cuse x='1150' y='4101' href='%23P0'%3E%3C/use%3E%3Cuse x='986' y='4583' href='%23P2'%3E%3C/use%3E%3Cuse x='1257' y='4867' href='%23P1'%3E%3C/use%3E%3Cuse x='1660' y='-168' href='%23P0'%3E%3C/use%3E%3Cuse x='1864' y='627' href='%23P0'%3E%3C/use%3E%3Cuse x='1924' y='978' href='%23P6'%3E%3C/use%3E%3Cuse x='1943' y='1641' href='%23P7'%3E%3C/use%3E%3Cuse x='1931' y='2284' href='%23P0'%3E%3C/use%3E%3Cuse x='1802' y='2893' href='%23P0'%3E%3C/use%3E%3Cuse x='2134' y='3395' href='%23P4'%3E%3C/use%3E%3Cuse x='1749' y='3881' href='%23P7'%3E%3C/use%3E%3Cuse x='2131' y='4666' href='%23P5'%3E%3C/use%3E%3Cuse x='2175' y='4813' href='%23P7'%3E%3C/use%3E%3Cuse x='2196' y='65' href='%23P7'%3E%3C/use%3E%3Cuse x='2537' y='446' href='%23P2'%3E%3C/use%3E%3Cuse x='2276' y='1194' href='%23P1'%3E%3C/use%3E%3Cuse x='2282' y='1493' href='%23P1'%3E%3C/use%3E%3Cuse x='2688' y='1997' href='%23P0'%3E%3C/use%3E%3Cuse x='2209' y='2672' href='%23P0'%3E%3C/use%3E%3Cuse x='2532' y='3485' href='%23P2'%3E%3C/use%3E%3Cuse x='2368' y='3881' href='%23P3'%3E%3C/use%3E%3Cuse x='2354' y='4533' href='%23P1'%3E%3C/use%3E%3Cuse x='2555' y='5281' href='%23P1'%3E%3C/use%3E%3Cuse x='2815' y='212' href='%23P2'%3E%3C/use%3E%3Cuse x='3202' y='737' href='%23P0'%3E%3C/use%3E%3Cuse x='3130' y='1144' href='%23P6'%3E%3C/use%3E%3Cuse x='3359' y='1484' href='%23P3'%3E%3C/use%3E%3Cuse x='3268' y='2220' href='%23P1'%3E%3C/use%3E%3Cuse x='3333' y='2602' href='%23P7'%3E%3C/use%3E%3Cuse x='2945' y='3150' href='%23P6'%3E%3C/use%3E%3Cuse x='3316' y='3777' href='%23P7'%3E%3C/use%3E%3Cuse x='2976' y='4561' href='%23P7'%3E%3C/use%3E%3Cuse x='3190' y='4761' href='%23P3'%3E%3C/use%3E%3Cuse x='3422' y='-111' href='%23P4'%3E%3C/use%3E%3Cuse x='3925' y='377' href='%23P6'%3E%3C/use%3E%3Cuse x='4007' y='1147' href='%23P0'%3E%3C/use%3E%3Cuse x='3973' y='1533' href='%23P2'%3E%3C/use%3E%3Cuse x='3933' y='2425' href='%23P2'%3E%3C/use%3E%3Cuse x='3464' y='2701' href='%23P0'%3E%3C/use%3E%3Cuse x='3962' y='3270' href='%23P7'%3E%3C/use%3E%3Cuse x='3628' y='3700' href='%23P0'%3E%3C/use%3E%3Cuse x='3512' y='4638' href='%23P4'%3E%3C/use%3E%3Cuse x='3421' y='4837' href='%23P3'%3E%3C/use%3E%3Cuse x='4304' y='28' href='%23P4'%3E%3C/use%3E%3Cuse x='4032' y='713' href='%23P3'%3E%3C/use%3E%3Cuse x='4499' y='938' href='%23P2'%3E%3C/use%3E%3Cuse x='4595' y='1791' href='%23P0'%3E%3C/use%3E%3Cuse x='4126' y='2011' href='%23P0'%3E%3C/use%3E%3Cuse x='4296' y='2534' href='%23P7'%3E%3C/use%3E%3Cuse x='4450' y='3466' href='%23P3'%3E%3C/use%3E%3Cuse x='4072' y='4069' href='%23P3'%3E%3C/use%3E%3Cuse x='4341' y='4749' href='%23P5'%3E%3C/use%3E%3Cuse x='4326' y='5013' href='%23P2'%3E%3C/use%3E%3Cuse x='4847' y='-231' href='%23P7'%3E%3C/use%3E%3Cuse x='4718' y='395' href='%23P1'%3E%3C/use%3E%3Cuse x='4966' y='1309' href='%23P2'%3E%3C/use%3E%3Cuse x='4793' y='1781' href='%23P0'%3E%3C/use%3E%3Cuse x='4673' y='2409' href='%23P4'%3E%3C/use%3E%3Cuse x='4765' y='2636' href='%23P1'%3E%3C/use%3E%3Cuse x='5137' y='3322' href='%23P6'%3E%3C/use%3E%3Cuse x='5226' y='3644' href='%23P1'%3E%3C/use%3E%3Cuse x='4841' y='4364' href='%23P3'%3E%3C/use%3E%3Cuse x='4942' y='4803' href='%23P0'%3E%3C/use%3E%3C/g%3E%3C/svg%3E");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+h1 {
+  font-weight: 900;
+  font-size: 500%;
+  text-align: center;
+  margin-top: 4rem;
+  color: #fff;
+  line-height: 1.2;
+}
+
+h1 span {
+  padding: 5px 15px;
+  background: #68B984;
+}
+
+dt {
+  color: #3D5656;
+  line-height: 1;
+}
+
+.dictionary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 4rem auto;
+  max-width: 90%;
+}
+
+.dictionary > .term {
+  text-align: center;
+  max-width: 20rem;
+  margin-bottom: 3rem;
+  padding: 2rem;
+  border-radius: 3px;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
+  background-color: #CFFDE1;
+  transition: all 100ms ease-in-out;
+}
+
+.dictionary > .term > dt {
+  margin-bottom: 1rem;
+}
+
+dt span {
+  font-size: 200%;
+  font-weight: 900;
+}
+
+.emoji {
+  margin: 0 auto 20px;
+  display: block;
+  font-size: 400%;
+}
+
+dd {
+  font-size: 92.5%;
+  margin-left: 0;
+}
+
+dd dt {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+  font-size: inherit;
+}
+
+dd dl {
+  font-size: 90%;
+  margin: 1rem auto 0 auto;
+  letter-spacing: 0.33px;
+  max-width: 15rem;
+}
+
+dd dl .term {
+  margin-bottom: 1rem;
+}
+
+.footer {
+  text-align: center;
 }
