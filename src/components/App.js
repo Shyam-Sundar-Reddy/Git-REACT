@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <h1>
-        <span>📖 learn Git Commands</span>
+        <span role="img" aria-label='book'>📖 learn Git Commands</span>
       </h1>
       <dl className="dictionary">{commands.map(createEntry)}</dl>
       <Footer />
